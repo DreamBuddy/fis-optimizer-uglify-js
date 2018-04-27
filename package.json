@@ -1,5 +1,5 @@
 {
-  "name": "fis-optimizer-uglify-js",
+  "name": "fis-optimizer-uglify-js3",
   "description": "A optimizer for fis to compress js by using uglify-js.",
   "version": "0.2.3",
   "author": "FIS Team <fis@baidu.com>",
@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "merge-source-map": "1.0.1",
-    "uglify-js": "2.4.15"
+    "uglify-js": "3.3.22"
   }
 }
