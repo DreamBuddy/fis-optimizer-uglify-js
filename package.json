@@ -10,7 +10,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fis-dev/fis-optimizer-uglify-js.git"
+    "url": "https://github.com/DreamBuddy/fis-optimizer-uglify-js"
   },
   "engines": {
     "node": ">= 0.8.0"
